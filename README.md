@@ -7,13 +7,13 @@ These powerful data structures provide efficient ways to store and manage unique
 
 ## 📌 Table of Contents
 
-1. [Set in JavaScript](#1-set-in-javascript)
-2. [Operations on Sets: Union & Intersection](#2-operations-on-sets-union--intersection)
-3. [Converting Between Sets and Arrays](#3-converting-between-sets-and-arrays)
-4. [Common Set Methods](#4-common-set-methods)
-5. [Map in JavaScript](#5-map-in-javascript)
-6. [Common Map Methods](#6-common-map-methods)
-7. [Iteration Techniques](#7-iteration-techniques)
+1. Set in JavaScript
+2. Operations on Sets: Union & Intersection
+3. Converting Between Sets and Arrays
+4. Common Set Methods
+5. Map in JavaScript
+6. Common Map Methods
+7. Iteration Techniques
 
 ---
 
